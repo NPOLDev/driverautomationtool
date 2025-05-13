@@ -1,4 +1,4 @@
-[
+ [
     {
         "CatalogVersion":  "24.04.10",
         "Status":  null,
@@ -1699,14 +1699,14 @@
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Pro 7+",
         "Product":  "Surface_Pro_7+_with_LTE_Advanced_1961",
-        "Name":  "Microsoft Surface Pro 7+ LTE Win10 21H2",
+        "Name":  "Microsoft Surface Pro 7+ LTE Win10 22H2",
         "PackageID":  "102633",
-        "FileName":  "SurfacePro7+_Win10_19044_24.021.15760.0.msi",
-        "Url":  "https://download.microsoft.com/download/1/b/4/1b4bdd09-a704-4bf5-bed6-6693a0ac848a/SurfacePro7+_Win10_19044_24.021.15760.0.msi",
+        "FileName":  "SurfacePro7+_Win10_19045_25.042.21556.0.msi",
+        "Url":  "https://download.microsoft.com/download/0195da46-88f9-4f56-8046-babe15cafe2e/SurfacePro7+_Win10_19045_25.042.21556.0.msi",
         "DownloadCenter":  "https://www.microsoft.com/en-us/download/details.aspx?id=102633",
         "OSVersion":  "Windows 10 x64",
-        "OSReleaseId":  "21H2",
-        "OSBuild":  "19044",
+        "OSReleaseId":  "22H2",
+        "OSBuild":  "19045",
         "HashMD5":  ""
     },
     {
@@ -1717,14 +1717,14 @@
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Pro 7+",
         "Product":  "Surface_Pro_7+_with_LTE_Advanced_1961",
-        "Name":  "Microsoft Surface Pro 7+ LTE Win11 21H2",
+        "Name":  "Microsoft Surface Pro 7+ LTE Win11 22H2",
         "PackageID":  "102633",
-        "FileName":  "SurfacePro7+_Win11_22000_24.021.15775.0.msi",
-        "Url":  "https://download.microsoft.com/download/1/b/4/1b4bdd09-a704-4bf5-bed6-6693a0ac848a/SurfacePro7+_Win11_22000_24.021.15775.0.msi",
+        "FileName":  "SurfacePro7+_Win11_22621_25.042.21552.0.msi",
+        "Url":  "https://download.microsoft.com/download/0195da46-88f9-4f56-8046-babe15cafe2e/SurfacePro7+_Win11_22621_25.042.21552.0.msi,
         "DownloadCenter":  "https://www.microsoft.com/en-us/download/details.aspx?id=102633",
         "OSVersion":  "Windows 11 x64",
-        "OSReleaseId":  "21H2",
-        "OSBuild":  "22000",
+        "OSReleaseId":  "22H2",
+        "OSBuild":  "22621",
         "HashMD5":  ""
     },
     {
