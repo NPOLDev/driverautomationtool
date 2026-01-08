@@ -1227,6 +1227,24 @@
         "CatalogVersion": "24.04.10",
         "Status": null,
         "Component": "DriverPack",
+        "ReleaseDate": "24.04.08",
+        "Manufacturer": "Microsoft",
+        "Model": "Surface Laptop 7",
+        "Product": "Surface_Laptop_7th_Edition_With_Intel_For_Business_2107",
+        "Name": "Microsoft Surface Laptop 7 for Business 2107" Win11 22631",
+        "PackageID": "105959",
+        "FileName": "SurfaceLaptop7withIntel_Win11_22631_25.113.34746.0.msi",
+        "Url": "https://download.microsoft.com/download/1543bd80-9cae-498d-8b0f-9841e4d7b2a8/SurfaceLaptop7withIntel_Win11_22631_25.113.34746.0.msi",
+        "DownloadCenter": "https://www.microsoft.com/download/details.aspx?id=108014",
+        "OSVersion": "Windows 11 x64",
+        "OSReleaseId": "23H2",
+        "OSBuild": "22631",
+        "HashMD5": ""
+    },
+    {
+        "CatalogVersion": "24.04.10",
+        "Status": null,
+        "Component": "DriverPack",
         "ReleaseDate": "24.03.08",
         "Manufacturer": "Microsoft",
         "Model": "Surface Laptop Go",
@@ -2052,3 +2070,4 @@
         "HashMD5": ""
     }
 ]
+
