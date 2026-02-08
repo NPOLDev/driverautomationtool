@@ -738,10 +738,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Go",
         "Product":  "Surface_Go_1824_Consumer",
@@ -756,10 +756,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Go with LTE Advanced",
         "Product":  "Surface_Go_1825_Commercial",
@@ -774,10 +774,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Book 3",
         "Product":  "Surface_Book_3_1900",
@@ -792,10 +792,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Book 2",
         "Product":  "Surface_Book_1832",
@@ -810,10 +810,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface Book",
         "Product":  "Surface_Book",
@@ -828,10 +828,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface 3 (Wi-Fi)",
         "Product":  "Surface_3",
@@ -846,10 +846,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface 3 (AT\u0026amp;T 4G LTE)",
         "Product":  "Surface_3_ROW",
@@ -864,10 +864,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface 3 (Verizon 4G LTE)",
         "Product":  "Surface_3_US2",
@@ -882,10 +882,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface 3 (4G LTE) in North America (non-AT\u0026amp;T)",
         "Product":  "Surface_3_NAG",
@@ -900,10 +900,10 @@
         "HashMD5":  ""
     },
     {
-        "CatalogVersion":  "26.02.07",
+        "CatalogVersion":  "26.02.08",
         "Status":  null,
         "Component":  "DriverPack",
-        "ReleaseDate":  "26.02.07",
+        "ReleaseDate":  "26.02.08",
         "Manufacturer":  "Microsoft",
         "Model":  "Surface 3 (Y!mobile 4G LTE) and Surface 3 (4G LTE) outside of North America",
         "Product":  "Surface_3_NAG",
